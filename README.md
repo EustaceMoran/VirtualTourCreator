@@ -1,2 +1,2 @@
 # VirtualTourCreator
-Для работы программы необходимо разархивировать UnityPlayre.rar 
+Для работы программы необходимо разархивировать UnityPlayer.rar 
